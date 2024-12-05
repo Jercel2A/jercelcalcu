@@ -1,4 +1,4 @@
-unction append(value){
+function append(value){
     display.value += value
 }
 function calculate(){
